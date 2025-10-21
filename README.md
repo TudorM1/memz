@@ -1,6 +1,7 @@
 # Memz ~ External Memory Manipulation
 
-Simple Memory Class & Open Handle To the proc👾
+Simple Memory Class & Open Handle To the proc
+
 Simple Memory Change Example 🤙
 
 ## Requirements
